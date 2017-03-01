@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user1.menutesting.MainActivity">
+
+    <item
+        android:id="@+id/list"
+        android:orderInCategory="100"
+        android:title="Online users"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/history"
+        android:orderInCategory="100"
+        android:title="History"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/user"
+        android:orderInCategory="100"
+        android:title="Change username"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/quit"
+        android:orderInCategory="100"
+        android:title="Quit"
+        app:showAsAction="never" />
+</menu>

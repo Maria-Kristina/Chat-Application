@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="button">Send</string>
+
+    <!--Dialog strings-->
+    <string name="titleDialog">Closing</string>
+    <string name="messageDialog">Do you want to leave the application?</string>
+    <string name="messageDialog2">Do you want to close the activity?</string>
+    <string name="ok">Accept</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
